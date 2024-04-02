@@ -291,3 +291,43 @@ Research Experience: Experience in research, particularly in areas related to ma
 **Effort:** 350 Hours
 
 **Difficulty Level:** Medium
+
+
+
+**[8] Proposal Title: Development of a Clinical Data Integration Platform**
+
+**Mentor(s):** 
+
+**Overview:**
+The proposed project aims to develop a comprehensive Clinical Data Integration Platform for Emory BMI-GSoC. This platform will facilitate the integration and harmonization of clinical data from various sources, including electronic health records (EHRs), wearable devices, and patient-reported outcomes. By centralizing and standardizing clinical data, the platform will enable researchers and clinicians to perform advanced analytics, generate insights, and improve patient care.
+
+**Expected Outcomes:**
+1. Creation of a robust and scalable platform for clinical data integration.
+2. Seamless ingestion, transformation, and storage of clinical data from disparate sources.
+3. Implementation of data harmonization techniques to ensure consistency and interoperability.
+4. Provision of secure access controls and data governance mechanisms.
+5. Integration with analytical tools and visualization dashboards for data analysis and interpretation.
+
+**Key Features:**
+1. Data Ingestion: Support for ingesting data from EHR systems, wearable devices, and other healthcare data sources.
+2. Data Transformation: Tools for transforming and standardizing clinical data into a common format (e.g., FHIR).
+3. Data Storage: Scalable storage infrastructure for storing clinical data securely and efficiently.
+4. Data Harmonization: Techniques for harmonizing clinical data to ensure consistency and interoperability.
+5. Access Control: Role-based access controls and data governance policies to protect patient privacy and comply with regulations.
+6. Analytics Integration: Integration with analytical tools (e.g., R, Python) and visualization dashboards for data analysis and interpretation.
+
+**Required Skills:**
+1. Proficiency in biomedical informatics and healthcare data management.
+2. Experience with database management systems (e.g., SQL, NoSQL).
+3. Knowledge of healthcare data standards (e.g., HL7, FHIR).
+4. Programming skills in languages such as Python, Java, or JavaScript.
+5. Familiarity with data integration and ETL (Extract, Transform, Load) processes.
+6. Understanding of healthcare privacy regulations (e.g., HIPAA, GDPR).
+
+**Source Code:** New project
+
+**Discussion Forum:** https://github.com/NISYSLAB/Emory-BMI-GSoC/discussions
+
+**Effort:** 300 Hours
+
+**Difficulty Level:** Medium
